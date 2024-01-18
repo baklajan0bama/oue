@@ -1,4 +1,4 @@
-﻿Цель: Изучить основные sddsffdsfкоманды fsdfdsfsdfсистемыfsdfdsfsf контроля версий git
+Цель: sadsadИзучить основные sddsffdsfкоманды fsdfdsfsdfсистемыfsdfdsfsf контроляasdsaddas версий gitgitasdsadasdasd
 Алгоритм действий:
 1. Скачать и установить программу github Desktop
 2. Создать локальную версию репозитория
